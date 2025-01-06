@@ -1,3 +1,3 @@
-# Cashman Flask Project
+# **Cashman API**
 
-This project is a web application built using the Flask framework. It is designed to manage and track financial transactions, providing users with an easy-to-use interface for handling their cash flow. The application includes features such as adding, editing, and deleting transactions, as well as generating financial reports.
+Cashman is a lightweight Flask API for managing financial transactions like incomes and expenses. It provides endpoints to add and retrieve transactions using JSON requests.
